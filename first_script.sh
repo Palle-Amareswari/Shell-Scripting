@@ -6,6 +6,10 @@
 
 
 #Sol:
-
 #! /bin/bash
 echo "Shell Scripting is Fun!"
+
+
+# To run file:
+# > chmod +x first_script.sh
+# > sh first_script.sh
