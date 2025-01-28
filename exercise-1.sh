@@ -4,7 +4,6 @@
 # Hint 2:
 # Remember to start your script with a shebang!
 
-
 #Sol:
 #! /bin/bash
 echo "Shell Scripting is Fun!"
