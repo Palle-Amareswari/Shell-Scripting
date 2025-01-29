@@ -6,6 +6,8 @@ display "You have permissions to edit /etc/shadow." If you cannot, display "You 
 permissions to edit /etc/shadow."
 
 
+sol:
+
 #! /bin/bash
 
 path="/etc/shadow"
